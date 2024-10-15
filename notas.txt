@@ -32,3 +32,29 @@ Comparadores
     Diferente estricto: !==
     Comparador simple: ==
     Comparador estricto: ===
+
+
+    estructuras de repeticion: Bucles -ciclos o loops 
+    for,while y do-while
+    for -> Estructuras de repeticon que se ejecuta n cantidad de veces, donde se conoce el valor de n 
+    while y do while -> Estructuras de repeticion que se ejecuta n cantidad de veces, donde se puede 
+    conocer o no el valor de n git config --global user.email
+
+
+    Acumuladores y Contadores
+    Contador: Variable o elementos auxiliar que cuenta de n en n, segun la cantidad
+     de veces que se ejecuta un codigo 
+
+         index++ == index = index + 1
+
+    Acumulador: variable o elemento auxiliar que acumular o suma o un valor especifico 
+    por cada Contador. el acumulador siempre se define por fuera del ciclo 
+    Variable += otrovalor > esta no se puede asignar
+
+
+    while: (por defecto es un ciclo infinito)
+    La variable de control se define por afuera del ciclo 
+    se define la condicion  dentro del ciclo 
+    
+
+

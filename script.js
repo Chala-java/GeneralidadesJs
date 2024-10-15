@@ -37,7 +37,7 @@
 
 
 /* Condicionales */
-if (5 > 5) {
+/*if (5 > 5) {
     console.log('Esto es un un condicional simple')
 } else if (5 < 5) {
     console.log('Este es el condicional anidado')
@@ -63,6 +63,31 @@ switch (opcion) {
         break
 }
 
-let edad = 18
+/*let edad = 18
 let resultado = edad >= 18 ? true : false
 console.log(resultado)
+*/
+/*//var numero=prompt("Ingrese el numero de la tabla de multiplicar ")
+//for(let index = 0; index <= 10; index++){
+  //  console.log(numero +'*'+index+ '='+(numero * index))
+//}
+//var sumasalario = 0
+
+//for(var index=1; index <= 5; index++){
+//    var salario= Number(prompt ('Ingrese su salario:'))
+  //  sumasalario += salario
+    
+    
+//}
+
+//console.log('su salario'+(sumasalario/(index-1)))
+
+*/
+var Index = 0
+while(index <=10){
+    console.log ('esto es verdadero')
+    index++
+}
+
+
+
