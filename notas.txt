@@ -55,6 +55,32 @@ Comparadores
     while: (por defecto es un ciclo infinito)
     La variable de control se define por afuera del ciclo 
     se define la condicion  dentro del ciclo 
-    
+
+    todo ciclo for se puede convertir a un ciclo while pero no es reciproco 
+    pero un ciclo while no puede migrar a un ciclo for 
+
+
+    interruptor, centinela o bandera
+
+    o se apaga o se activa 
+
+while y do while Diferencias
+
+
+    1.el while se activa si la condicion es correcta 
+    primero pregunta y luego ejecuta
+
+    el ciclo do-while
+    pero el do while ejecuta y luego pregunta garantiza la
+    ejecucion del codigo al menos una vez
+
+    diferencias entre var,let y const 
+
+    scope o alcance de la variable: (Local o global)
+    var -> Son variables globales
+    let y const -> Globales y/o locales (depende de su definicion)
+
+
+
 
 
