@@ -1,0 +1,34 @@
+Tipos de datos:
+
+Number -> Hace referencia a un numero
+String -> Hace referencia a un texto
+Bool -> Hace referencia a un booleano (true of false)
+Null -> Hace referencia a la ausencia de contenido
+Undefined -> Hace referencia a la ausencia de información
+Object -> Hace referencia a un Objeto
+
+
+Condicionales JavaScript
+    1 -> Simple: if
+        Evalúa una condición y se ejecuta el código siempre y cuando el valor sea true
+    2 -> Dual o compuesto: if...else
+        Evalúa una condición y se ejecuta el código en dos caminos diferentes dependiendo del valor de la condición (true o false)
+    3 -> Anidado: if...else if...else
+        Es una mezcla del simple con el dual n cantidad de veces (n puede ser cualquier número)
+    4 -> Múltiple: switch
+        Es un menú de opciones
+    5 -> En línea: operador ternario (? :)
+        La misma vaina que el dual, pero mas lindo
+    
+Expresiones Booleanas
+Es una expresión que se evalúa con un true o false. Es el resultado de comparar dos valores
+
+Comparadores
+    Menor: < (Excluyente)
+    Mayor: > (Excluyente)
+    Mayor o igual: >= (Incluyente)
+    Menor o igual: <= (Incluyente)
+    Diferente simple: !=
+    Diferente estricto: !==
+    Comparador simple: ==
+    Comparador estricto: ===
