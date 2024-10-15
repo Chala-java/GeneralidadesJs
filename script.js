@@ -78,16 +78,47 @@ console.log(resultado)
   //  sumasalario += salario
     
     
-//}
-
-//console.log('su salario'+(sumasalario/(index-1)))
-
-*/
-var Index = 0
-while(index <=10){
-    console.log ('esto es verdadero')
-    index++
 }
 
+console.log('su salario'+(sumasalario/(index-1)))
+
+*/
 
 
+
+// var index = 1
+// var contador = 0
+// var sumasalario = 0
+// while (index == 1) {
+//     var salario = Number(prompt('ingrese su salario'))
+//     sumasalario += salario
+//     var opcion = Number(prompt('desea ingresar otro salario? \n 1= Si \n 2= No'))
+// contador++
+//     if (opcion == 2) {
+//         index = 2
+//     }
+
+// }
+// console.log('su salario' + (sumasalario / (contador - 1)))
+
+
+// var index = 1
+// var sumasalario = 0
+
+// do {
+//     var salario = Number(prompt('ingrese su salario'))
+//     sumasalario += salario
+//     var opcion = Number(prompt('desea ingresar otro salario? \n 1= Si \n 2= No'))
+//     index++
+
+// } while (index <= 5)
+
+// console.log('su salario' + (sumasalario / (contador - 1)))
+
+
+var nombre = 'jaime'
+let edad = 33
+if(edad >= 18 )
+    var salario=900000
+}
+console.log(nombre + 'Tiene un salario de'+salario)
