@@ -80,6 +80,42 @@ while y do while Diferencias
     var -> Son variables globales
     let y const -> Globales y/o locales (depende de su definicion)
 
+    Funciones de JavaScript -> Es la encapsulacion de codigo que me permite reutilizarlo
+    donde quiera y cuando quiera, solo con una unica definicion
+
+
+    Funciones regulares/tradicionales
+      Funciones declarativas
+        Funciones declarativas tiene un alcanze global (hoisting de todo el documento), es decir,
+        que se mueven a su contexto global se ejecutan donde le de la gana solo las declarativas, 
+        me permite llamar antes o despues osea al inicio o al final 
+
+      Funciones de expresion
+      -Una funcion de expresion tiene un alcance local, es decir, que  su contexto aplica solo
+      despues de su definicion; osea de su punto hacia abajo no hacia arriba porque no es 
+      global
+
+
+
+
+
+    Funciones flecha 
+
+    Funciones anonimas
+      Funciones anonima es una Funcion anonima
+
+Nota*: las funciones regulares y las funciones flecha siempre trabajan en dos
+ tiempos o partes: definicion y la invocacion. si usted tiene una funcion y no la va a utilizar
+ para que la va usar siempre pendiente de esto, una funcion siempre en caso flecha y regulares deben tener una definicion
+ y invocacion;
+
+
+
+
+
+
+
+
 
 
 
