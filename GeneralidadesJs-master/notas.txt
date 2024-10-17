@@ -1,0 +1,86 @@
+Tipos de datos:
+
+Number -> Hace referencia a un numero
+String -> Hace referencia a un texto
+Bool -> Hace referencia a un booleano (true of false)
+Null -> Hace referencia a la ausencia de contenido
+Undefined -> Hace referencia a la ausencia de información
+Object -> Hace referencia a un Objeto
+
+
+Condicionales JavaScript
+    1 -> Simple: if
+        Evalúa una condición y se ejecuta el código siempre y cuando el valor sea true
+    2 -> Dual o compuesto: if...else
+        Evalúa una condición y se ejecuta el código en dos caminos diferentes dependiendo del valor de la condición (true o false)
+    3 -> Anidado: if...else if...else
+        Es una mezcla del simple con el dual n cantidad de veces (n puede ser cualquier número)
+    4 -> Múltiple: switch
+        Es un menú de opciones
+    5 -> En línea: operador ternario (? :)
+        La misma vaina que el dual, pero mas lindo
+    
+Expresiones Booleanas
+Es una expresión que se evalúa con un true o false. Es el resultado de comparar dos valores
+
+Comparadores
+    Menor: < (Excluyente)
+    Mayor: > (Excluyente)
+    Mayor o igual: >= (Incluyente)
+    Menor o igual: <= (Incluyente)
+    Diferente simple: !=
+    Diferente estricto: !==
+    Comparador simple: ==
+    Comparador estricto: ===
+
+
+    estructuras de repeticion: Bucles -ciclos o loops 
+    for,while y do-while
+    for -> Estructuras de repeticon que se ejecuta n cantidad de veces, donde se conoce el valor de n 
+    while y do while -> Estructuras de repeticion que se ejecuta n cantidad de veces, donde se puede 
+    conocer o no el valor de n git config --global user.email
+
+
+    Acumuladores y Contadores
+    Contador: Variable o elementos auxiliar que cuenta de n en n, segun la cantidad
+     de veces que se ejecuta un codigo 
+
+         index++ == index = index + 1
+
+    Acumulador: variable o elemento auxiliar que acumular o suma o un valor especifico 
+    por cada Contador. el acumulador siempre se define por fuera del ciclo 
+    Variable += otrovalor > esta no se puede asignar
+
+
+    while: (por defecto es un ciclo infinito)
+    La variable de control se define por afuera del ciclo 
+    se define la condicion  dentro del ciclo 
+
+    todo ciclo for se puede convertir a un ciclo while pero no es reciproco 
+    pero un ciclo while no puede migrar a un ciclo for 
+
+
+    interruptor, centinela o bandera
+
+    o se apaga o se activa 
+
+while y do while Diferencias
+
+
+    1.el while se activa si la condicion es correcta 
+    primero pregunta y luego ejecuta
+
+    el ciclo do-while
+    pero el do while ejecuta y luego pregunta garantiza la
+    ejecucion del codigo al menos una vez
+
+    diferencias entre var,let y const 
+
+    scope o alcance de la variable: (Local o global)
+    var -> Son variables globales
+    let y const -> Globales y/o locales (depende de su definicion)
+
+
+
+
+
